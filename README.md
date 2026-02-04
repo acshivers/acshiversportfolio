@@ -3,8 +3,10 @@
 ![Image](adventureworks_demo.png)
 # Business Case Study
 - Under Construction
+  
 # YouTube Content
 - Under Construction
+  
 # About Me
 - 👋 Hi, I’m @acshivers
 - 👀 I’m a freelance Data Analyst
