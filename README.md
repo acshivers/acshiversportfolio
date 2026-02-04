@@ -1,5 +1,4 @@
 # Portfolio
-# Links
 # Gallery 1 - Power BI
 ![Image](adventureworks_demo.png)
 # Gallery 2 - Tableau
@@ -13,6 +12,11 @@
 - 📫 How to reach me? Send and email to arturo.shivers@gmail.com  
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I am a designee of the WSET2 with Distinction, in wines
+# Links URL
+LinkedIn
+Fiverr.com
+Freelancer.com
+Upwork.com 
 
 <!---
 acshivers/acshivers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
