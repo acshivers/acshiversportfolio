@@ -1,4 +1,7 @@
 # Portfolio
+# Links
+# Project Title
+# About Me
 - 👋 Hi, I’m @acshivers
 - 👀 I’m interested in coding for data analysis
 - 🌱 I’m currently learning Python 3, pandas, BeautifulSoup, MechanicalSoup
