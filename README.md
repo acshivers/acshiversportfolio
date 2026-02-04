@@ -1,6 +1,7 @@
 # Portfolio
 # Links
-# Project Title
+# Key Projects Gallery
+adventureworks_demo.png
 # About Me
 - 👋 Hi, I’m @acshivers
 - 👀 I’m interested in coding for data analysis
