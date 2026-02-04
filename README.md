@@ -8,7 +8,7 @@
 # About Me
 - 👋 Hi, I’m @acshivers
 - 👀 I’m a freelance Data Analyst
-- 🌱 I’m skilled in Excel, Power BI, Tableau, Python, PostgreSQL, VS Code, GitHub
+- 🌱 I’m skilled in Excel, Power BI, Tableau, Python, PostgreSQL
 - 💞️ I’m looking to build my skills set and network
 - 📫 How to reach me? Send and email to arturo.shivers@gmail.com  
 - 😄 Pronouns: He, Him, His
