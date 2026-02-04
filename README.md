@@ -1,6 +1,6 @@
 # Portfolio
 # Links
-# Key Projects Gallery
+# Gallery of Analytics Projects
 ![Image](adventureworks_demo.png)
 # About Me
 - 👋 Hi, I’m @acshivers
