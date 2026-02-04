@@ -1,7 +1,10 @@
 # Portfolio
 # Links
-# Gallery of Analytics Projects
+# Gallery 1 - Power BI
 ![Image](adventureworks_demo.png)
+# Gallery 2 - Tableau
+# Gallery 3 - Case Study
+# YouTube Videos
 # About Me
 - 👋 Hi, I’m @acshivers
 - 👀 I’m interested in coding for data analysis
