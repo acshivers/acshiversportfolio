@@ -12,6 +12,7 @@
 - 📫 How to reach me? Send and email to arturo.shivers@gmail.com  
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I am a designee of the WSET2 with Distinction, in wines
+
 # Links URL
 LinkedIn
 Fiverr.com
